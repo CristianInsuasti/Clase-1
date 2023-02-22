@@ -70,7 +70,7 @@ public class Tradicional {
         System.out.println("Jugadores que terminan con A");
         for (int i = 0; i < jugadores.size(); i++) {
             String nombreJugador = jugadores.get(i).nombre;
-            if (nombreJugador.charAt(nombreJugador.length() - 1) == 'A') {
+            if (nombreJugador.charAt(nombreJugador.length() - 1) == 'a') {
                 System.out.println(nombreJugador);
             }
         }
