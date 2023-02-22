@@ -16,6 +16,7 @@ public class Lista {
         Jugadores.add(new Jugador("Sebastian", 18));
         Jugadores.add(new Jugador("Gabriel", 44));
         Jugadores.add(new Jugador("Alexander", 21));
+        Jugadores.add(new Jugador("Andrea", 55));
     }
     //Devuelve la lista de jugadores creada en el constructor
     public ArrayList<Jugador> getJugadores() {

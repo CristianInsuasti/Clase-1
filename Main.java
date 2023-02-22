@@ -9,6 +9,7 @@ public class Main {
         tradicional.ListarNumerosPares();
         tradicional.ListarNumerosImpares();
         tradicional.JugadoresPorD();
+        tradicional.JugadoresTerminanA();
 
     }
 
